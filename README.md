@@ -4,7 +4,7 @@
 
 
 -->
-👋 Welcome to My GitHub Repository
+👋 Welcome to My new GitHub account repository
 
 Hi, I’m Michael P. Manis, a dedicated professional with a passion for AI, mathematics and innovation. Currently, I am focusing on developing cutting-edge AI solutions, integrating Explainable AI (XAI) and advancing mathematical concepts. Alongside my technical projects, I am also working on various initiatives promoting ethical AI use, starting LegalTech companies, and building NGOs to support emerging Greek talent.
 
