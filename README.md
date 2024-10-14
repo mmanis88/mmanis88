@@ -46,7 +46,7 @@ Hi, I’m Michael P. Manis, a dedicated professional with a passion for AI, math
 
   LinkedIn: [Connect with me](https://www.linkedin.com/in/michaelpmanis/)
   Email: michaelpmanis@gmail.com
-  Website:https://www.ethikon.ai/
+  Website: https://www.ethikon.ai/
 
 🤝 Let's Collaborate
 
