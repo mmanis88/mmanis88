@@ -9,10 +9,10 @@
 Hi, I’m Michael P. Manis, a dedicated engineer with a passion for AI, engineering and innovation. Currently, I am focusing on developing cutting-edge AI solutions, integrating Explainable AI (XAI) and advancing engineering concepts. Alongside my technical projects, I am also working on various initiatives promoting ethical AI use, building a GreenTech company, and participating to NGO for ethical use of AI.
 
 📚 Projects & Research
-1. Quantum Machine Learning 
+1. Advanced Machine Learning 
 
-    Description: A research-focused prject advancing the field of Quantum Machine Learning.
-    Focus: Bridging Mathematical Physics and Explainable AI to enhance QML systems.
+    Description: A research-focused prject advancing the field of explainable AI.
+    Focus: Bridging classical machine learning and Explainable AI to enhance higher level systems.
     Status: In development.
 
 3. GreenTech AI Company
@@ -34,7 +34,7 @@ Hi, I’m Michael P. Manis, a dedicated engineer with a passion for AI, engineer
   Data Science: Jupyter, Pandas, NumPy, IBM Cognos Analytics
   Cloud: AWS, Azure, IBM Cloud
   DevOps: Docker, Kubernetes
-  Other: Quantum Computing, Explainable AI (XAI), Retrieval-Augmented Generation (RAG)
+  Other: AI Agents, Explainable AI (XAI), Retrieval-Augmented Generation (RAG)
 
 🎯 Future Goals
 
