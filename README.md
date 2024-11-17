@@ -1,4 +1,4 @@
-🚀 Michael P. Manis - AI, Mathematics & Innovation
+🚀 Michael P. Manis - AI, Engineering & Innovation
 <!--
 **mmanis88/mmanis88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -6,7 +6,7 @@
 -->
 👋 Welcome to My new GitHub account repository
 
-Hi, I’m Michael P. Manis, a dedicated professional with a passion for AI, mathematics and innovation. Currently, I am focusing on developing cutting-edge AI solutions, integrating Explainable AI (XAI) and advancing mathematical concepts. Alongside my technical projects, I am also working on various initiatives promoting ethical AI use, starting LegalTech companies, and building NGOs to support emerging Greek talent.
+Hi, I’m Michael P. Manis, a dedicated engineer with a passion for AI, engineering and innovation. Currently, I am focusing on developing cutting-edge AI solutions, integrating Explainable AI (XAI) and advancing engineering concepts. Alongside my technical projects, I am also working on various initiatives promoting ethical AI use, building a GreenTech company, and participating to NGO for ethical use of AI.
 
 📚 Projects & Research
 1. Quantum Machine Learning 
@@ -15,15 +15,15 @@ Hi, I’m Michael P. Manis, a dedicated professional with a passion for AI, math
     Focus: Bridging Mathematical Physics and Explainable AI to enhance QML systems.
     Status: In development.
 
-3. LegalTech AI Company
+3. GreenTech AI Company
 
-    Description: Revolutionizing legal document review using AI agents capable of document analysis and interactive Q&A.
-    Focus: Legal document automation and attorney support using state-of-the-art AI.
+    Description: Revolutionizing digital product passport review using AI agents capable of document analysis and interactive Q&A.
+    Focus: DPP document automation and  support using state-of-the-art AI.
     Status: Prototype phase.
 
-4. RAG Search Engine for Museam
+4. RAG Search Engine for Secondary Education
 
-    Description: A search engine aimed at generating AI content for museums and libraries while ensuring source attribution.
+    Description: A search engine aimed at generating AI content for secondary education and libraries while ensuring source attribution.
     Focus: Ethical AI use with metadata and watermarking techniques.
     Status:NGO-backed initiative.
 
@@ -38,9 +38,9 @@ Hi, I’m Michael P. Manis, a dedicated professional with a passion for AI, math
 
 🎯 Future Goals
 
-  Mathematics: I am working to master advanced mathematics, specifically in higher dimensions and real analysis, with a goal to contribute to Mathematical Science.
+  Engineering: I am working to master advanced engineering, specifically in asset real time analysis, with a goal to contribute to manufacturing industry.
   AI Ethics & Policy: I am keen on developing frameworks and tools for ethical AI and AI regulations, especially focusing on the attribution of AI-generated content.
-  Entrepreneurship: I plan to launch new ventures that marry mathematics and technology, fostering innovation and sustainability.
+  Entrepreneurship: I plan to launch new ventures that marry engineering and technology, fostering innovation and sustainability.
 
 🧑‍💼 Contact
 
@@ -50,4 +50,4 @@ Hi, I’m Michael P. Manis, a dedicated professional with a passion for AI, math
 
 🤝 Let's Collaborate
 
-If you're interested in collaborating on AI, Mathematics, or Entrepreneurship, feel free to reach out! I’m always open to discussing new ideas, contributing to research, or exploring business opportunities.
+If you're interested in collaborating on AI, Engineering, or Entrepreneurship, feel free to reach out! I’m always open to discussing new ideas, contributing to research, or exploring business opportunities.
